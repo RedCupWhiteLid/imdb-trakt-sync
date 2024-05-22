@@ -6,7 +6,7 @@ IMDB:
     # Log into your IMDb account from a web browser, inspect the cookies and retrieve the value of cookie:
     # name: ubid-main | domain: .imdb.com
     # You need to replace this value with your own, the default value is for illustrative purposes only
-    COOKIEUBIDMAIN: 301-0710501-5367639
+    COOKIEUBIDMAIN: 135-5431621-4890943
     # Array of IMDb lists that you would like synced to Trakt
     # If this array is empty, all IMDb lists will be synced to Trakt
     # Keep in mind the maximum number of lists you can have in Trakt: https://twitter.com/trakt/status/1536751362943332352
