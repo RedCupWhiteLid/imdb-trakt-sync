@@ -2,7 +2,7 @@ IMDB:
     # Log into your IMDb account from a web browser, inspect the cookies and retrieve the value of cookie:
     # name: at-main | domain: .imdb.com
     # You need to replace this value with your own, the default value is for illustrative purposes only
-    COOKIEATMAIN: zAta|RHiA67JIrBDPaswIym3GyrTlEuQH-u9yrKP3BUNCHgVyE4oNtUzBYVKlhjjzBiM_Z-GSVnH9rKW3Hf7LdbejovoF6SI4ZmgJcTIUXoA4NVcH1Qahwm0KYCyz95o1gsgby-uQwdU6CoS6MFTnjMkLe1puNiv4uFkvo8mOQulJJeutzYedxiUd0ns9w1X_WeVXPTZWjwisPZMw3EOR6-q9xR4kCEWRW7CmWxU1AEDQbT8ns_AJJD34w1nIQUkuLgBQrvJI_pY
+    COOKIEATMAIN: Atza|IwEBIARRjK3WQYzwNnRmT_p8pmgQbfaSJ2afncH51yV4RyoO4I-AVHogAzULKeRUa4SwMRZzpsjozLKUJDEmT4OmSWpM7S7Afs2rcC9Ij7K2fW5gfvqgWVvEUmEbvWo7gxX6BuoMXYlBhH_n6zMpA95wDBpy24eYvNUlycn9j9PVKfqvIKX_kwstUJ2H63oBqm5wISpzeN91abQecZJPnxWMMtter7rdiTYe025cPEVgJcaXaw
     # Log into your IMDb account from a web browser, inspect the cookies and retrieve the value of cookie:
     # name: ubid-main | domain: .imdb.com
     # You need to replace this value with your own, the default value is for illustrative purposes only
